@@ -1,6 +1,7 @@
 #Pull Requests
 
-Formats
+Formats --
 [Feature]
 [Refactor]
 [Staging]
+[Hotfix]
