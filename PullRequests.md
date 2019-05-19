@@ -4,3 +4,4 @@ Formats
 [Feature]
 [Refactor]
 [Staging]
+[Snapshot]
