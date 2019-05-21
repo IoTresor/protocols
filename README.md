@@ -1,5 +1,10 @@
-# defaults
-References on how we do things
+# Protocols
+A protocol is an agreed-upon way of communication
+
+These are the protocols for communicating progress on software projects.
+
+
+Subject to change, based upon improvement.
 
 *~~`Creer et Redefinir`~~*
 
