@@ -1,17 +1,7 @@
 # Protocols
 A protocol is an agreed-upon way of communication
-
 These are the protocols for communicating progress on software projects.
-
-
 Subject to change, based upon improvement.
-
-*~~`Creer et Redefinir`~~*
-
-~~`Create & Redefine`~~
-
-*Create and Refine*
-
 
 
 ![alt text][logo]
@@ -20,5 +10,13 @@ Subject to change, based upon improvement.
 
 
 
-Mission Statement
+**Mission Statement**
 The purpose of this business is to challenge and redefine what is possible.  we stand at the forefront of information technology, to redefine convention.
+
+
+
+*~~`Creer et Redefinir`~~*
+
+~~`Create & Redefine`~~
+
+**Create and Refine**
