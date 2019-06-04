@@ -19,6 +19,7 @@ This changelog is based on:  [Keep a Changelog](https://keepachangelog.com/en/1.
 ### Removed
 - 
 
+E X A M P L E
 
 ## [1.0.0] - 2018-12-13
 ##Upcoming Features
