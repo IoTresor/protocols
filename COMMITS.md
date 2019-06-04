@@ -6,11 +6,11 @@ How do you know what a commit changes?
 
 # Format
 
-`<type>(<scope>): <subject>
+``` <type>(<scope>): <subject>
 
 <body>
 
-<footer>`
+<footer> ```
   
   
   
