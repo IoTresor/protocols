@@ -1,7 +1,10 @@
 # Protocols
 A protocol is an agreed-upon way of communication
+
 These are the protocols for communicating progress on software projects.
-Subject to change, based upon improvement.
+
+
+*Subject to change, based upon improvement.*
 
 
 ![alt text][logo]
