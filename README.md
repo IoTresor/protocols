@@ -13,7 +13,10 @@ These are the protocols for communicating progress on software projects.
 
 
 
-**Mission Statement**
+**Our Mission**
+"To dissimilate bleeding-edge technology to the common man"
+"To learn, understand, and simplify cutting edge technology"
+"To make usable cutting edge technology"
 The purpose of this business is to challenge and redefine what is possible.  we stand at the forefront of information technology, to redefine convention.
 
 
