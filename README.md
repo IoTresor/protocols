@@ -14,7 +14,7 @@ These are the protocols for communicating progress on software projects.
 
 **Our Mission**
 "To dissimilate bleeding-edge technology to the common man"
-
+"To enable cutting edge information technology solutions"
 "To learn, understand, and simplify cutting edge technology"
 
 "To make usable cutting edge technology"
