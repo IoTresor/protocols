@@ -6,8 +6,7 @@ These are the protocols for communicating progress on software projects.
 *Subject to change, based upon improvement.*
 
 
-![alt text][logo]
-[logo]: http://www.wallquotes.com/sites/default/files/styles/uc_canvas/public/arts0164-94.png?itok=XruZUAfU "Trésor, Creer et Définir"
+![alt text](http://www.wallquotes.com/sites/default/files/styles/uc_canvas/public/arts0164-94.png?itok=XruZUAfU) "Trésor, Creer et Définir"
 
 **Create and Redefine**
 
