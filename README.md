@@ -11,8 +11,8 @@ These are the protocols for communicating progress on software projects.
 **Create and Redefine**
 
 
-**Our Mission**
-"To dissimilate bleeding-edge technology to the common man"
+**Our Vision**
+"To enable businesses by disseminating bleeding-edge technology to the common man"
 "To enable cutting edge information technology solutions"
 "To learn, understand, and simplify cutting edge technology"
 
