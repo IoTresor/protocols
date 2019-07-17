@@ -11,7 +11,7 @@ These are the protocols for communicating progress on software projects.
 **Create and Redefine**
 
 
-##Our Vision
+## Our Vision
 "To enable businesses by disseminating bleeding-edge technology to the common man"
 "To enable cutting edge information technology solutions"
 "To learn, understand, and simplify cutting edge technology"
@@ -22,7 +22,7 @@ The purpose of this business is to challenge and redefine what is possible.  we 
 
 
 
-##Our Mission
+## Our Mission
 To Simplify complex technology problems into understandable business solutions
 
 **Core Beliefs**
