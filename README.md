@@ -22,9 +22,8 @@ The purpose of this business is to challenge and redefine what is possible.  we 
 
 
 
-**Our Vision**
-
-
+**Our Mission**
+To Simplify complex technology problems into understandable business solutions
 
 **Core Beliefs**
 - Convention does not need to be followed, unless it works.
