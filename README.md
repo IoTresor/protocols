@@ -11,7 +11,7 @@ These are the protocols for communicating progress on software projects.
 **Create and Redefine**
 
 ## Our Vision
-"To enable the future through the spread of new Information Technology"
+"To enable the future through the spread of new ideas"
 
 ## Our Mission
 To simplify complex technology problems into understandable business solutions
