@@ -20,3 +20,4 @@ To simplify complex technology problems into understandable business solutions
 * Convention does not need to be followed, unless it works.
 * Redefine what is possible, and imaginable.
 * Defy Expectation
+* Live in the future
