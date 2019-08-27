@@ -3,6 +3,6 @@
 What defines an entity are the principles it holds in high esteem
 
 
-* Customer First -- Straight outta Hangzhou 
+* Customer First -- The best feedback comes from those that use it
 * Embrace Change -- The world is contantly shifting, so must we. (Agile)
 * Future Living --  Stay ahead of the curve
