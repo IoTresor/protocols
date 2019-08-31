@@ -8,7 +8,7 @@ These are the protocols for communicating progress on software projects.
 
 ![alt text](http://www.wallquotes.com/sites/default/files/styles/uc_canvas/public/arts0164-94.png?itok=XruZUAfU)
 
-**Create and Redefine**
+**_Create and Redefine_**
 
 ## Our Vision
 "To enable the future through the spread of new ideas"
