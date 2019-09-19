@@ -6,18 +6,17 @@ How do you know what a commit changes?
 
 # Format
 
+< type >(< scope >):   < subject >
 
-  <type>(<scope>): <subject>
+  < body >
 
-  <body>
-
-  <footer> 
+  < footer > 
 
   
   
   
 
-Allowed <type> values:
+Allowed < type > values:
 
     feat (new feature for the user, not a new feature for build script)
     fix (bug fix for the user, not a fix to a build script)
