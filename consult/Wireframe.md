@@ -14,7 +14,7 @@ Process:
 > They are the 'blueprint' of software applications
 
 
-Next step in the process is creating a Mockup
+Next step in the process is creating a [mockup](./Mockup)
 
 
 _Subject to change, based upon improvement._
