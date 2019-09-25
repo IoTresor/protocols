@@ -1,4 +1,4 @@
-This is an online of how wireframing is done --
+This is an outline of how wireframing is done --
 
 
 Tools:
