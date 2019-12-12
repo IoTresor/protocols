@@ -14,7 +14,7 @@ These are the protocols for communicating progress on software projects.
 To be at the forefront of new technologies, envisioning a better future.
 
 ## Our Mission
-To simplify complex technology problems into understandable business solutions
+We simplify your complex technology problems
 
 **Core Beliefs**
 * Convention does not need to be followed, unless it works.
