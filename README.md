@@ -21,3 +21,4 @@ We simplify your complex technology problems
 * Redefine what is possible, and imaginable.
 * Defy Expectation
 * Live in the future
+* Treat others gently
