@@ -17,7 +17,7 @@ To be at the forefront of new technologies, envisioning a better future.
 We simplify your complex technology problems
 
 **Core Beliefs**
-* Convention does not need to be followed, unless it works.
+* Conventionally Creative
 * Redefine what is possible, and imaginable.
 * Defy Expectation
 * Live in the future
