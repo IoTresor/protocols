@@ -1,5 +1,5 @@
 #Versioning
-This project follows: [Semantic Versioning 2.0.0](https://semver.org) 
+This project follows: [Semantic Versioning](https://semver.org) 
 
 MAJOR.MINOR.PATCH
 MAJOR - Backwards Incompatible rework of project ex. Rearranging entire project
@@ -32,3 +32,5 @@ E X A M P L E
 - lotta bug fixes
 ### Removed
 - html directory
+
+[Reference](https://semver.org/spec/v2.0.0.html)
