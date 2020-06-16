@@ -1,3 +1,5 @@
+## Prototype IoT -- IoT Consulting & Development
+
 # Protocols
 A protocol is an agreed-upon way of communication
 
@@ -8,14 +10,14 @@ These are the protocols for communicating progress on software projects.
 
 
 ## Our Vision
-To be at the forefront of new technologies, envisioning a better future.
+To speed up the availability of IoT technologies 
 
 ## Our Mission
 We simplify your complex technology problems
 
 **Core Beliefs**
 * Conventionally Creative
-* Redefine what is possible, and imaginable.
+* Imagine and expect
 * Defy Expectation
 * Live in the future
 * Treat others gently
