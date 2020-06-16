@@ -1,5 +1,7 @@
 ## Prototype IoT -- IoT Consulting & Development
 
+![alt text](http://www.wallquotes.com/sites/default/files/styles/uc_canvas/public/arts0164-94.png?itok=XruZUAfU)
+
 # Protocols
 A protocol is an agreed-upon way of communication
 
@@ -18,8 +20,6 @@ We simplify your complex technology problems
 * Defy Expectation
 * Live in the future
 * Treat others gently
-
-![alt text](http://www.wallquotes.com/sites/default/files/styles/uc_canvas/public/arts0164-94.png?itok=XruZUAfU)
 
 
 *Subject to change, based upon improvement.*
